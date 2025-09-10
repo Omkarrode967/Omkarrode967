@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: **omkarrode967@gmail.com**
 
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1CvnLMnkWyIB7e8nk1xT6OC5nps-6dv_J/view?usp=drive_link)
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1MEz2KM0KncMU-TThbBNtbxFfNoCno4j3/view?usp=drive_link)
 
 ---
 
