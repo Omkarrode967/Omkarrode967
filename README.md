@@ -46,22 +46,6 @@ Tech: Spring Cloud, Eureka, OpenFeign, Gateway
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Omkarrode967&show_icons=true&theme=tokyonight" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Omkarrode967&theme=tokyonight" height="160"/>
-</p>
-
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkarrode967&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 ## 💡 Current Focus
 
