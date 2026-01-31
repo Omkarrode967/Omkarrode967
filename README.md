@@ -1,44 +1,83 @@
-<h1 align="center">Hi 👋, I'm Omkar Rode</h1>
-<h3 align="center">A passionate Full Stack Developer & Competitive Programmer from Pune, India</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=180&section=header&text=Omkar%20Rode&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-- 🌱 I’m currently learning **Java Spring, Spring Boot, Hibernate...**
+<h1 align="center">Hi 👋 I'm Omkar Rode</h1>
+<h3 align="center">Java Backend Developer | Spring Boot | Microservices | Cloud & AI Integration</h3>
 
-- 📫 How to reach me: **omkarrode967@gmail.com**
-
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1MEz2KM0KncMU-TThbBNtbxFfNoCno4j3/view?usp=drive_link)
-
----
-
-### 🧑‍💼 Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/omkarrode967" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkarrode967" height="30" width="40" />
-  </a>
+<p align="center">
+  <a href="mailto:omkarrode4002@gmail.com">📧 Email</a> •
+  <a href="https://linkedin.com/in/Omkarrode967">💼 LinkedIn</a> •
+  <a href="https://github.com/Omkarrode967">💻 GitHub</a>
 </p>
 
 ---
 
-### 💻 Languages & Tools:
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
+## 🚀 About Me
+
+- 🎓 BTech CSE (AI) | CGPA 8.36
+- 💻 Backend Engineer focused on **Spring Boot & Microservices**
+- 🔐 Build secure REST APIs with JWT, OAuth2
+- 🧠 Integrate AI/LLMs into backend systems
+- ☁️ Deploy production apps using Docker & AWS
+- 📍 Pune, India
+
+---
+
+## 🛠 Languages & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,aws,git,github,python,react,mongodb,linux" />
 </p>
+
+---
+
+## 🔥 Featured Projects
+
+### 🛒 Spring E-Commerce Platform
+Secure REST APIs • JWT Auth • RBAC • AI RAG Chatbot • Dockerized deployment  
+Tech: Spring Boot, Security, PostgreSQL, Docker, React
+
+### 📈 FinFlow – Stock Analysis Agent
+Automated trading signals using FinBERT + technical indicators  
+Tech: Python, n8n, FastAPI, Sentiment Analysis
+
+### 🧠 Quiz Microservices System
+Distributed system with service discovery & API gateway  
+Tech: Spring Cloud, Eureka, OpenFeign, Gateway
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Omkarrode967&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Omkarrode967&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkarrode967&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 💡 Current Focus
+
+- Advanced System Design
+- High-performance Spring Boot apps
+- Cloud deployment (AWS ECS/ECR)
+- DSA + Competitive Programming
+- AI + Backend integrations
+
+---
+
+## 🤝 Let's Connect
+
+- LinkedIn: https://linkedin.com/in/Omkarrode967
+- Email: omkarrode4002@gmail.com
+
+---
+
+⭐ From backend APIs to scalable microservices — I love building systems that run in production.
